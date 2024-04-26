@@ -70,16 +70,11 @@ necesito que quede asi, para que aprezcan los iconos y todo bien;
 
 <br/>
 
----
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
----
 
 [website]: https://vorex.cl/
 [instagram]: https://www.instagram.com/pedropablocarrasco_
 [linkedin]: https://www.linkedin.com/in/pedro-pablo-carrasco-barrera-6636b8ab/
-[Spotify]: 
 
 
 ----
