@@ -4,7 +4,7 @@
 
 ## Soy Programador 
 
-- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, React, etc.
+- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, React.
 - 📚 Actualmente estoy aprendiendo todo sobre las tecnologías de Frontend y Backend 😅
 - 💪🏼 Metas futuras: Aprender más tecnologías - Nunca dejar de crear nuevas ideas.
 - ⚡
