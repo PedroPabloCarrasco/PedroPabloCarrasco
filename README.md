@@ -13,9 +13,9 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+### Spotify  🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn))
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-### Languages and Tools 🛠 
+### Tecnologias🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
