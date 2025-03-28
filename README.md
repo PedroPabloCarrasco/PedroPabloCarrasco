@@ -43,7 +43,17 @@
 
 <br/>
 
-<<h2>Proyectos</h2>
+<h2>Proyectos</h2>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;">
+  <!-- Card del proyecto 1 -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); padding: 16px; text-align: center;">
+    <h3>Buscador de películas</h3>
+    <img src="https://i.postimg.cc/hzMf3Rz9/Captura-desde-2025-03-28-17-20-26.png" alt="Buscador de películas" style="width: 100%; border-radius: 4px; margin-bottom: 12px;">
+    <p>Con conexión a API MDPI</p>
+  </div>
+</div>
+
+
 
 
 
