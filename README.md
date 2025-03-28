@@ -37,10 +37,11 @@
 ## Proyectos
 <h2>Buscador de peliculas </h2>
 <p>Con conexión a API MDPI</p>
-[![Captura-desde-2025-03-28-17-09-16.png](https://i.postimg.cc/NMmQstJM/Captura-desde-2025-03-28-17-09-16.png)](https://postimg.cc/PpXgygks)
+![image](https://github.com/user-attachments/assets/6f666238-7230-4332-9d35-a18891a84f97)
 
-Ejemplo:
-![Mi Proyecto](https://example.com/mi-imagen.png)
+
+
+
 
 <br/>
 <h2 align="center"> Estadisticas 📈 </h2>
