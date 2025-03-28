@@ -45,12 +45,28 @@
 
 <<h2>Proyectos</h2>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;">
-  <div>
+  <!-- Card del proyecto 1 -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); padding: 16px; text-align: center;">
     <h3>Buscador de películas</h3>
-    <img src="https://i.postimg.cc/NMmQstJM/Captura-desde-2025-03-28-17-09-16.png" alt="Buscador de películas" style="width: 100%;">
+    <img src="https://i.postimg.cc/NMmQstJM/Captura-desde-2025-03-28-17-09-16.png" alt="Buscador de películas" style="width: 100%; border-radius: 4px; margin-bottom: 12px;">
     <p>Con conexión a API MDPI</p>
   </div>
+
+  <!-- Card del proyecto 2 -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); padding: 16px; text-align: center;">
+    <h3>Otro proyecto</h3>
+    <img src="URL_DE_LA_IMAGEN" alt="Otro proyecto" style="width: 100%; border-radius: 4px; margin-bottom: 12px;">
+    <p>Descripción del proyecto</p>
+  </div>
+
+  <!-- Card del proyecto 3 -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); padding: 16px; text-align: center;">
+    <h3>Otro proyecto más</h3>
+    <img src="URL_DE_LA_IMAGEN" alt="Otro proyecto más" style="width: 100%; border-radius: 4px; margin-bottom: 12px;">
+    <p>Descripción del proyecto</p>
+  </div>
 </div>
+
 
 
 
