@@ -1,4 +1,4 @@
-# Hola! soy Pedro Pablo<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hola! soy Pedro Pablo <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -11,16 +11,11 @@
 
 ---
 
-
----
-
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-<br />
-
 ---
 
-### Tecnologias🛠 
+### Tecnologías 🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
@@ -35,55 +30,34 @@
 ![Linux](https://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linux&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-
-
-<br/>
-
 ---
 
-<br/>
+## Proyectos
 
-<h2>Proyectos</h2>
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; justify-content: center;">
   <!-- Card del proyecto 1 -->
-  <div style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 150px; height: 150px; padding: 8px; text-align: center; margin: auto; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 150px; height: 150px; padding: 8px; text-align: center; margin: auto; display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <h3 style="font-size: 14px; margin: 4px 0;">Buscador de películas</h3>
-    <img src="https://i.postimg.cc/hzMf3Rz9/Captura-desde-2025-03-28-17-20-26.png" alt="Buscador de películas" style="width: 100%; height: 90px; object-fit: cover; border-radius: 4px;">
+    <img src="https://i.postimg.cc/hzMf3Rz9/Captura-desde-2025-03-28-17-20-26.png" alt="Buscador de películas" style="width: 90%; height: 90%; object-fit: cover; border-radius: 8px;">
     <p style="font-size: 12px; margin: 4px 0;">Con conexión a API MDPI</p>
   </div>
 </div>
 
-  </div>
+---
+
+<h2 align="center"> Estadísticas 📈 </h2>
+
+<div align="center"> 
+  <a href="">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+  </a>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+  </a>
 </div>
 
-
-
-
-
-
-
-
-<br/>
-  <h2 align="center"> Estadisticas 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-
-<br/>
-
-
+---
 
 [website]: https://vorex.cl/
 [instagram]: https://www.instagram.com/pedropablocarrasco_
 [linkedin]: https://www.linkedin.com/in/pedro-pablo-carrasco-barrera-6636b8ab/
-
-
-----
-
-
