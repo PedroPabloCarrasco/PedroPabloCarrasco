@@ -32,16 +32,7 @@
 
 ---
 
-## Proyectos
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; justify-content: center;">
-  <!-- Card del proyecto 1 -->
-  <div style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 150px; height: 150px; padding: 8px; text-align: center; margin: auto; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <h3 style="font-size: 14px; margin: 4px 0;">Buscador de películas</h3>
-    <img src="https://i.postimg.cc/hzMf3Rz9/Captura-desde-2025-03-28-17-20-26.png" alt="Buscador de películas" style="width: 90%; height: 90%; object-fit: cover; border-radius: 8px;">
-    <p style="font-size: 12px; margin: 4px 0;">Con conexión a API MDPI</p>
-  </div>
-</div>
 
 ---
 
