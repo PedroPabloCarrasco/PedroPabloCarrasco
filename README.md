@@ -43,21 +43,15 @@
 
 <br/>
 
-<h2>Proyectos</h2>
+<<h2>Proyectos</h2>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;">
   <div>
-    <h3>Proyecto 1</h3>
-    <img src="URL_DE_LA_IMAGEN" alt="Proyecto 1" style="width: 100%;">
-  </div>
-  <div>
-    <h3>Proyecto 2</h3>
-    <img src="URL_DE_LA_IMAGEN" alt="Proyecto 2" style="width: 100%;">
-  </div>
-  <div>
-    <h3>Proyecto 3</h3>
-    <img src="URL_DE_LA_IMAGEN" alt="Proyecto 3" style="width: 100%;">
+    <h3>Buscador de películas</h3>
+    <img src="https://i.postimg.cc/NMmQstJM/Captura-desde-2025-03-28-17-09-16.png" alt="Buscador de películas" style="width: 100%;">
+    <p>Con conexión a API MDPI</p>
   </div>
 </div>
+
 
 
 <br/>
