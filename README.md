@@ -43,8 +43,9 @@
 
 <br/>
 ## Proyectos
-
-![Texto alternativo](URL_de_la_imagen)
+<h2>Buscador de peliculas </h2>
+<p>Con conexión a API MDPI</p>
+![Texto alternativo]([Captura-desde-2025-03-28-17-09-16.png](https://postimg.cc/PpXgygks))
 
 Ejemplo:
 ![Mi Proyecto](https://example.com/mi-imagen.png)
