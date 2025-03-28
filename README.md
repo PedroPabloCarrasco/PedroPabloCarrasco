@@ -43,13 +43,16 @@
 
 <br/>
 
-<<h2>Proyectos</h2>
+<h2>Proyectos</h2>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;">
   <!-- Card del proyecto 1 -->
-  <div style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 200px; height: 200px; padding: 16px; text-align: center; margin: auto;">
-    <h3 style="font-size: 16px;">Buscador de películas</h3>
-    <img src="https://i.postimg.cc/hzMf3Rz9/Captura-desde-2025-03-28-17-20-26.png" alt="Buscador de películas" style="width: 100%; height: 100px; object-fit: cover; border-radius: 4px;">
-    <p style="font-size: 14px; margin-top: 8px;">Con conexión a API MDPI</p>
+  <div style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 150px; height: 150px; padding: 8px; text-align: center; margin: auto; display: flex; flex-direction: column; justify-content: space-between;">
+    <h3 style="font-size: 14px; margin: 4px 0;">Buscador de películas</h3>
+    <img src="https://i.postimg.cc/hzMf3Rz9/Captura-desde-2025-03-28-17-20-26.png" alt="Buscador de películas" style="width: 100%; height: 90px; object-fit: cover; border-radius: 4px;">
+    <p style="font-size: 12px; margin: 4px 0;">Con conexión a API MDPI</p>
+  </div>
+</div>
+
   </div>
 </div>
 
