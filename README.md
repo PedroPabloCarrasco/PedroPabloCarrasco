@@ -42,7 +42,15 @@
 ---
 
 <br/>
+## Proyectos
 
+![Texto alternativo](URL_de_la_imagen)
+
+Ejemplo:
+![Mi Proyecto](https://example.com/mi-imagen.png)
+
+
+<br/>
   <h2 align="center"> Estadisticas 📈 </h2>
   
   <div align="center"> 
