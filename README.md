@@ -1,4 +1,4 @@
-# Hola! soy Pedro Pablo <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hola! soy Pedro Pablo<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -15,7 +15,7 @@
 
 ---
 
-### Tecnologías 🛠 
+### Tecnologias🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
@@ -32,12 +32,19 @@
 
 ---
 
+<br/>
 
+## Proyectos
+<h2>Buscador de peliculas </h2>
+<p>Con conexión a API MDPI</p>
+[![Captura-desde-2025-03-28-17-09-16.png](https://i.postimg.cc/NMmQstJM/Captura-desde-2025-03-28-17-09-16.png)](https://postimg.cc/PpXgygks)
 
----
+Ejemplo:
+![Mi Proyecto](https://example.com/mi-imagen.png)
 
-<h2 align="center"> Estadísticas 📈 </h2>
-
+<br/>
+<h2 align="center"> Estadisticas 📈 </h2>
+  
 <div align="center"> 
   <a href="">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
@@ -47,7 +54,7 @@
   </a>
 </div>
 
----
+<br/>
 
 [website]: https://vorex.cl/
 [instagram]: https://www.instagram.com/pedropablocarrasco_
